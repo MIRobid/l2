@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalcTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:layout_width">@dimen/layout_width</item>
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:fontFamily">@font/platform</item>
+        <item name="android:textStyle">bold</item>
+        <item name="colorPrimary">?android:attr/textColorHighlight</item>
+        <item name="colorOnPrimary">@color/black</item>
+    </style>
+    <style name="AppThemeDark" parent="Theme.MaterialComponents">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:layout_width">@dimen/layout_width</item>
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:fontFamily">@font/platform</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

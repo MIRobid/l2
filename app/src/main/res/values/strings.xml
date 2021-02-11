@@ -11,4 +11,6 @@
     <string name="_9">9</string>
     <string name="_0">0</string>
     <string name="_point">.</string>
+    <string name="material_light">Material light</string>
+    <string name="material_dark">Material dark</string>
 </resources>
